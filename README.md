@@ -1,1 +1,1 @@
-Tugas 1 - Life is Enough
+Technical Project 1
